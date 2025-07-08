@@ -13,24 +13,6 @@ This project is part of my hands-on AI learning journey. It focuses on detecting
 
 ---
 
-## 📊 Results
-
-| Model | Accuracy |
-|-------|----------|
-| Naive Bayes (basic) | X% |
-| Naive Bayes (cleaned + bigrams) | Y% |
-
-*Replace X and Y with your actual scores.*
-
----
-
-## 📁 Files
-
-- `spam_classifier.ipynb` — Notebook with full workflow
-- `README.md` — This file
-
----
-
 ## 🛠️ Tools Used
 
 - Python
